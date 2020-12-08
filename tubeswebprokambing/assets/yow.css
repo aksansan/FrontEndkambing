@@ -1,0 +1,37 @@
+.h2style {
+	text-align:center;
+}
+
+.pstyle {
+	text-align:center;
+
+}
+
+.buttonMI {
+	height:45px;
+	width:350px;
+	background-color:#ff4500;
+}
+
+.buttonNoTelp{
+	height:45px;
+	width:350px;
+	background-color:#414a4c;
+}
+
+.InLinetext1{
+	height:45px;
+	width:350px;
+}
+
+.AhrefBlack{
+ 	color:black;
+
+}
+
+.imgStaticSize{
+	height:45px;
+	width:100px;
+	text-align:center;
+
+}
